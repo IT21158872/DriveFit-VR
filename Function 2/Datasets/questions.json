@@ -1,0 +1,898 @@
+[
+    {
+        "question_id": "Q001",
+        "category": "Road Signs and Markings",
+        "difficulty": "Easy",
+        "question": "What does a red triangular sign indicate?",
+        "options": [
+            "A pedestrian crossing ahead",
+            "A warning of a sharp curve",
+            "A stop sign ahead",
+            "No overtaking allowed"
+        ],
+        "correct_answer": "A warning of a sharp curve",
+        "importance_weight": 5
+    },
+    {
+        "question_id": "Q002",
+        "category": "Road Signs and Markings",
+        "difficulty": "Medium",
+        "question": "What does a circular sign with a red border mean?",
+        "options": [
+            "Mandatory instruction",
+            "Prohibited action",
+            "Direction guidance",
+            "End of a restriction"
+        ],
+        "correct_answer": "Prohibited action",
+        "importance_weight": 4
+    },
+    {
+        "question_id": "Q003",
+        "category": "Road Signs and Markings",
+        "difficulty": "Easy",
+        "question": "What does a blue rectangular sign signify?",
+        "options": [
+            "Prohibited action",
+            "Warning",
+            "Mandatory instruction",
+            "Information"
+        ],
+        "correct_answer": "Information",
+        "importance_weight": 4
+    },
+    {
+        "question_id": "Q004",
+        "category": "Road Signs and Markings",
+        "difficulty": "Hard",
+        "question": "What does a stop sign indicate?",
+        "options": [
+            "Reduce speed",
+            "Halt completely",
+            "Slow down and proceed",
+            "No entry allowed"
+        ],
+        "correct_answer": "Halt completely",
+        "importance_weight": 4
+    },
+    {
+        "question_id": "Q005",
+        "category": "Road Signs and Markings",
+        "difficulty": "Easy",
+        "question": "What does a double yellow line on the road signify?",
+        "options": [
+            "No stopping",
+            "No overtaking",
+            "Lane merging",
+            "Parking zone"
+        ],
+        "correct_answer": "No overtaking",
+        "importance_weight": 5
+    },
+    {
+        "question_id": "Q006",
+        "category": "Road Signs and Markings",
+        "difficulty": "Easy",
+        "question": "What does a no parking sign look like?",
+        "options": [
+            "A blue circle with a red cross",
+            "A red triangle",
+            "A rectangular green sign",
+            "A white circle with a red border"
+        ],
+        "correct_answer": "A blue circle with a red cross",
+        "importance_weight": 4
+    },
+    {
+        "question_id": "Q007",
+        "category": "Road Signs and Markings",
+        "difficulty": "Easy",
+        "question": "What does a pedestrian crossing sign indicate?",
+        "options": [
+            "Animals crossing ahead",
+            "Slow down for pedestrians",
+            "No crossing allowed",
+            "Give way to other vehicles"
+        ],
+        "correct_answer": "Slow down for pedestrians",
+        "importance_weight": 1
+    },
+    {
+        "question_id": "Q008",
+        "category": "Road Signs and Markings",
+        "difficulty": "Easy",
+        "question": "What does a green signal light mean?",
+        "options": [
+            "Prepare to stop",
+            "Stop completely",
+            "Proceed if the way is clear",
+            "Caution: hazard ahead"
+        ],
+        "correct_answer": "Proceed if the way is clear",
+        "importance_weight": 1
+    },
+    {
+        "question_id": "Q009",
+        "category": "Road Signs and Markings",
+        "difficulty": "Easy",
+        "question": "What does a slippery road sign indicate?",
+        "options": [
+            "Reduce speed due to curves",
+            "Possible skidding hazard",
+            "Pedestrian crossing ahead",
+            "Road closed"
+        ],
+        "correct_answer": "Possible skidding hazard",
+        "importance_weight": 1
+    },
+    {
+        "question_id": "Q010",
+        "category": "Road Signs and Markings",
+        "difficulty": "Medium",
+        "question": "What is the purpose of a give-way sign?",
+        "options": [
+            "Stop completely",
+            "Yield to traffic on the main road",
+            "Proceed at maximum speed",
+            "Turn left only"
+        ],
+        "correct_answer": "Yield to traffic on the main road",
+        "importance_weight": 1
+    },
+    {
+        "question_id": "Q011",
+        "category": "Road Signs and Markings",
+        "difficulty": "Hard",
+        "question": "What does a roundabout sign indicate?",
+        "options": [
+            "Stop at the next junction",
+            "Enter the roundabout carefully",
+            "Turn right only",
+            "Straight road ahead"
+        ],
+        "correct_answer": "Enter the roundabout carefully",
+        "importance_weight": 1
+    },
+    {
+        "question_id": "Q012",
+        "category": "Road Signs and Markings",
+        "difficulty": "Medium",
+        "question": "What does a chevron marking on a road mean?",
+        "options": [
+            "Lane merging ahead",
+            "Warning of sharp curves",
+            "Overtaking permitted",
+            "Pedestrian crossing"
+        ],
+        "correct_answer": "Warning of sharp curves",
+        "importance_weight": 3
+    },
+    {
+        "question_id": "Q013",
+        "category": "Road Signs and Markings",
+        "difficulty": "Hard",
+        "question": "What does a no overtaking sign mean?",
+        "options": [
+            "Overtaking allowed with caution",
+            "Overtaking not allowed in this zone",
+            "Single-lane road ahead",
+            "Slippery road"
+        ],
+        "correct_answer": "Overtaking not allowed in this zone",
+        "importance_weight": 2
+    },
+    {
+        "question_id": "Q014",
+        "category": "Road Signs and Markings",
+        "difficulty": "Easy",
+        "question": "What does a flashing amber traffic light mean?",
+        "options": [
+            "Stop completely",
+            "Proceed with caution",
+            "Pedestrian crossing only",
+            "Traffic signals not working"
+        ],
+        "correct_answer": "Proceed with caution",
+        "importance_weight": 5
+    },
+    {
+        "question_id": "Q015",
+        "category": "Road Signs and Markings",
+        "difficulty": "Hard",
+        "question": "What does a lane merging sign signify?",
+        "options": [
+            "Road narrows ahead",
+            "Two lanes join into one",
+            "Overtaking permitted",
+            "Single-lane road ends"
+        ],
+        "correct_answer": "Two lanes join into one",
+        "importance_weight": 2
+    },
+    {
+        "question_id": "Q016",
+        "category": "Traffic Rules and Regulations",
+        "difficulty": "Hard",
+        "question": "What is the speed limit in an urban area in Sri Lanka?",
+        "options": [
+            "50 km/h",
+            "60 km/h",
+            "70 km/h",
+            "80 km/h"
+        ],
+        "correct_answer": "50 km/h",
+        "importance_weight": 4
+    },
+    {
+        "question_id": "Q017",
+        "category": "Traffic Rules and Regulations",
+        "difficulty": "Hard",
+        "question": "Who has the right of way at an uncontrolled intersection?",
+        "options": [
+            "The vehicle on the right",
+            "The vehicle on the left",
+            "The larger vehicle",
+            "The faster vehicle"
+        ],
+        "correct_answer": "The vehicle on the right",
+        "importance_weight": 2
+    },
+    {
+        "question_id": "Q018",
+        "category": "Traffic Rules and Regulations",
+        "difficulty": "Medium",
+        "question": "When can you overtake on the left?",
+        "options": [
+            "When the vehicle in front signals a right turn",
+            "When driving in a no-overtaking zone",
+            "When you are in a single-lane road",
+            "When the left lane is clear"
+        ],
+        "correct_answer": "When the vehicle in front signals a right turn",
+        "importance_weight": 4
+    },
+    {
+        "question_id": "Q019",
+        "category": "Traffic Rules and Regulations",
+        "difficulty": "Easy",
+        "question": "What is the penalty for not wearing a seatbelt?",
+        "options": [
+            "A warning",
+            "A fine or legal action",
+            "License suspension",
+            "No penalty"
+        ],
+        "correct_answer": "A fine or legal action",
+        "importance_weight": 1
+    },
+    {
+        "question_id": "Q020",
+        "category": "Traffic Rules and Regulations",
+        "difficulty": "Easy",
+        "question": "What should you do if an ambulance approaches with sirens on?",
+        "options": [
+            "Speed up and move ahead",
+            "Pull over and let it pass",
+            "Ignore it",
+            "Honk to warn others"
+        ],
+        "correct_answer": "Pull over and let it pass",
+        "importance_weight": 4
+    },
+    {
+        "question_id": "Q021",
+        "category": "Traffic Rules and Regulations",
+        "difficulty": "Easy",
+        "question": "What is the purpose of using turn signals?",
+        "options": [
+            "To increase speed",
+            "To communicate intentions to other drivers",
+            "To avoid accidents",
+            "To stop safely"
+        ],
+        "correct_answer": "To communicate intentions to other drivers",
+        "importance_weight": 5
+    },
+    {
+        "question_id": "Q022",
+        "category": "Traffic Rules and Regulations",
+        "difficulty": "Hard",
+        "question": "What should you do if traffic lights are not working?",
+        "options": [
+            "Ignore other vehicles",
+            "Follow police instructions or give way to the right",
+            "Drive fast",
+            "Stop and wait for help"
+        ],
+        "correct_answer": "Follow police instructions or give way to the right",
+        "importance_weight": 1
+    },
+    {
+        "question_id": "Q023",
+        "category": "Traffic Rules and Regulations",
+        "difficulty": "Medium",
+        "question": "What is the rule for parking near a fire hydrant?",
+        "options": [
+            "You can park for 5 minutes",
+            "Parking is prohibited",
+            "Only heavy vehicles can park",
+            "Only on weekends"
+        ],
+        "correct_answer": "Parking is prohibited",
+        "importance_weight": 3
+    },
+    {
+        "question_id": "Q024",
+        "category": "Traffic Rules and Regulations",
+        "difficulty": "Hard",
+        "question": "What should you do at a zebra crossing?",
+        "options": [
+            "Stop for pedestrians to cross",
+            "Speed up",
+            "Ignore if no one is visible",
+            "Turn on hazard lights"
+        ],
+        "correct_answer": "Stop for pedestrians to cross",
+        "importance_weight": 2
+    },
+    {
+        "question_id": "Q025",
+        "category": "Traffic Rules and Regulations",
+        "difficulty": "Easy",
+        "question": "What is the rule for overtaking on a curve?",
+        "options": [
+            "Allowed if the road is clear",
+            "Prohibited as it is dangerous",
+            "Allowed only for motorcycles",
+            "Mandatory for slow vehicles"
+        ],
+        "correct_answer": "Prohibited as it is dangerous",
+        "importance_weight": 4
+    },
+    {
+        "question_id": "Q026",
+        "category": "Traffic Rules and Regulations",
+        "difficulty": "Easy",
+        "question": "What should you do if you miss your exit on the highway?",
+        "options": [
+            "Turn around immediately",
+            "Make a U-turn at the next available space",
+            "Exit at the next junction",
+            "Stop and ask for directions"
+        ],
+        "correct_answer": "Exit at the next junction",
+        "importance_weight": 3
+    },
+    {
+        "question_id": "Q027",
+        "category": "Traffic Rules and Regulations",
+        "difficulty": "Medium",
+        "question": "When can you use your horn?",
+        "options": [
+            "To alert a pedestrian crossing",
+            "To signal a car blocking your lane",
+            "In an emergency situation only",
+            "At any time to get attention"
+        ],
+        "correct_answer": "In an emergency situation only",
+        "importance_weight": 5
+    },
+    {
+        "question_id": "Q028",
+        "category": "Traffic Rules and Regulations",
+        "difficulty": "Easy",
+        "question": "What should you do if you are involved in an accident?",
+        "options": [
+            "Leave the scene immediately",
+            "Stay at the scene and exchange details",
+            "Argue with the other driver",
+            "Drive to the nearest police station"
+        ],
+        "correct_answer": "Stay at the scene and exchange details",
+        "importance_weight": 4
+    },
+    {
+        "question_id": "Q029",
+        "category": "Traffic Rules and Regulations",
+        "difficulty": "Easy",
+        "question": "What is the correct procedure to make a U-turn?",
+        "options": [
+            "Turn immediately without looking",
+            "Check for vehicles behind and signal",
+            "Only do it when there is no other traffic",
+            "U-turns are prohibited on all roads"
+        ],
+        "correct_answer": "Check for vehicles behind and signal",
+        "importance_weight": 2
+    },
+    {
+        "question_id": "Q030",
+        "category": "Driving Ethics and Safety",
+        "difficulty": "Medium",
+        "question": "What should you do if you feel drowsy while driving?",
+        "options": [
+            "Increase the speed to reach your destination faster",
+            "Open the windows and continue driving",
+            "Stop and take a break",
+            "Drink coffee and continue driving"
+        ],
+        "correct_answer": "Stop and take a break",
+        "importance_weight": 2
+    },
+    {
+        "question_id": "Q031",
+        "category": "Driving Ethics and Safety",
+        "difficulty": "Hard",
+        "question": "Why is it important to maintain a safe following distance?",
+        "options": [
+            "To allow vehicles to overtake",
+            "To reduce fuel consumption",
+            "To avoid collisions in case of sudden stops",
+            "To increase speed"
+        ],
+        "correct_answer": "To avoid collisions in case of sudden stops",
+        "importance_weight": 4
+    },
+    {
+        "question_id": "Q032",
+        "category": "Driving Ethics and Safety",
+        "difficulty": "Hard",
+        "question": "What should you do when approaching a pedestrian crossing?",
+        "options": [
+            "Slow down and prepare to stop",
+            "Speed up to pass before pedestrians cross",
+            "Honk to warn pedestrians",
+            "Maintain your speed if no one is visible"
+        ],
+        "correct_answer": "Slow down and prepare to stop",
+        "importance_weight": 1
+    },
+    {
+        "question_id": "Q033",
+        "category": "Driving Ethics and Safety",
+        "difficulty": "Hard",
+        "question": "What should you do if you are driving in heavy rain?",
+        "options": [
+            "Speed up to pass quickly",
+            "Turn on headlights and reduce speed",
+            "Turn off headlights",
+            "Use only fog lights"
+        ],
+        "correct_answer": "Turn on headlights and reduce speed",
+        "importance_weight": 5
+    },
+    {
+        "question_id": "Q034",
+        "category": "Driving Ethics and Safety",
+        "difficulty": "Medium",
+        "question": "What is the safest way to pass a cyclist?",
+        "options": [
+            "Pass quickly with little distance",
+            "Pass slowly with plenty of space",
+            "Honk to alert them",
+            "Speed up and cut in front of them"
+        ],
+        "correct_answer": "Pass slowly with plenty of space",
+        "importance_weight": 4
+    },
+    {
+        "question_id": "Q035",
+        "category": "Driving Ethics and Safety",
+        "difficulty": "Medium",
+        "question": "Why is it important to signal when changing lanes?",
+        "options": [
+            "To notify other drivers of your intentions",
+            "To make the change faster",
+            "To avoid speeding tickets",
+            "None of the above"
+        ],
+        "correct_answer": "To notify other drivers of your intentions",
+        "importance_weight": 3
+    },
+    {
+        "question_id": "Q036",
+        "category": "Driving Ethics and Safety",
+        "difficulty": "Hard",
+        "question": "What is the safest way to react to road rage?",
+        "options": [
+            "Argue with the other driver",
+            "Ignore the other driver and remain calm",
+            "Drive aggressively",
+            "Accelerate to get away"
+        ],
+        "correct_answer": "Ignore the other driver and remain calm",
+        "importance_weight": 2
+    },
+    {
+        "question_id": "Q037",
+        "category": "Driving Ethics and Safety",
+        "difficulty": "Easy",
+        "question": "What should you do if you see an animal crossing the road?",
+        "options": [
+            "Speed up and pass quickly",
+            "Stop and wait for the animal to pass",
+            "Honk loudly to scare the animal",
+            "Continue driving without slowing down"
+        ],
+        "correct_answer": "Stop and wait for the animal to pass",
+        "importance_weight": 1
+    },
+    {
+        "question_id": "Q038",
+        "category": "Driving Ethics and Safety",
+        "difficulty": "Hard",
+        "question": "What should you do if you are involved in a hit-and-run accident?",
+        "options": [
+            "Leave the scene to avoid trouble",
+            "Stay at the scene and contact authorities",
+            "Try to catch the fleeing driver",
+            "Argue with any witnesses"
+        ],
+        "correct_answer": "Stay at the scene and contact authorities",
+        "importance_weight": 3
+    },
+    {
+        "question_id": "Q039",
+        "category": "Driving Ethics and Safety",
+        "difficulty": "Medium",
+        "question": "Why should you always check your blind spot?",
+        "options": [
+            "To avoid speeding",
+            "To ensure no vehicles are present before changing lanes",
+            "To improve fuel efficiency",
+            "To see the road signs better"
+        ],
+        "correct_answer": "To ensure no vehicles are present before changing lanes",
+        "importance_weight": 3
+    },
+    {
+        "question_id": "Q040",
+        "category": "Vehicle Maintenance and Care",
+        "difficulty": "Medium",
+        "question": "Why is it important to check tire pressure regularly?",
+        "options": [
+            "For better fuel efficiency",
+            "To avoid tire blowouts and ensure safety",
+            "To improve the car's speed",
+            "To reduce noise"
+        ],
+        "correct_answer": "To avoid tire blowouts and ensure safety",
+        "importance_weight": 3
+    },
+    {
+        "question_id": "Q041",
+        "category": "Vehicle Maintenance and Care",
+        "difficulty": "Medium",
+        "question": "What should you do if your engine overheats?",
+        "options": [
+            "Drive faster to cool it down",
+            "Stop immediately and let the engine cool",
+            "Turn off the air conditioning",
+            "Open the hood and keep driving"
+        ],
+        "correct_answer": "Stop immediately and let the engine cool",
+        "importance_weight": 4
+    },
+    {
+        "question_id": "Q042",
+        "category": "Vehicle Maintenance and Care",
+        "difficulty": "Easy",
+        "question": "How often should you check the oil level in your car?",
+        "options": [
+            "Once a year",
+            "Every 5,000 km or as per manufacturer recommendation",
+            "Every 10,000 km",
+            "Once a month"
+        ],
+        "correct_answer": "Every 5,000 km or as per manufacturer recommendation",
+        "importance_weight": 1
+    },
+    {
+        "question_id": "Q043",
+        "category": "Vehicle Maintenance and Care",
+        "difficulty": "Easy",
+        "question": "What is the role of a car's battery?",
+        "options": [
+            "To power the headlights",
+            "To start the engine and power electrical components",
+            "To reduce fuel consumption",
+            "To maintain tire pressure"
+        ],
+        "correct_answer": "To start the engine and power electrical components",
+        "importance_weight": 2
+    },
+    {
+        "question_id": "Q044",
+        "category": "Vehicle Maintenance and Care",
+        "difficulty": "Easy",
+        "question": "Why should you replace your windshield wipers regularly?",
+        "options": [
+            "To improve the car's speed",
+            "To ensure clear visibility in rain",
+            "To reduce noise while driving",
+            "To increase fuel efficiency"
+        ],
+        "correct_answer": "To ensure clear visibility in rain",
+        "importance_weight": 2
+    },
+    {
+        "question_id": "Q045",
+        "category": "Vehicle Maintenance and Care",
+        "difficulty": "Easy",
+        "question": "What is the purpose of a car's air filter?",
+        "options": [
+            "To improve fuel efficiency",
+            "To clean the engine",
+            "To ensure clean air inside the cabin",
+            "To prevent tire wear"
+        ],
+        "correct_answer": "To clean the engine",
+        "importance_weight": 5
+    },
+    {
+        "question_id": "Q046",
+        "category": "Vehicle Maintenance and Care",
+        "difficulty": "Hard",
+        "question": "Why is it important to maintain the correct coolant levels?",
+        "options": [
+            "To ensure the air conditioning works",
+            "To prevent the engine from overheating",
+            "To reduce fuel consumption",
+            "To improve tire performance"
+        ],
+        "correct_answer": "To prevent the engine from overheating",
+        "importance_weight": 3
+    },
+    {
+        "question_id": "Q047",
+        "category": "Vehicle Maintenance and Care",
+        "difficulty": "Medium",
+        "question": "What should you do if you hear strange noises coming from your car?",
+        "options": [
+            "Continue driving until you reach your destination",
+            "Stop and check for any obvious problems",
+            "Ignore the noise",
+            "Speed up to avoid further damage"
+        ],
+        "correct_answer": "Stop and check for any obvious problems",
+        "importance_weight": 4
+    },
+    {
+        "question_id": "Q048",
+        "category": "Vehicle Maintenance and Care",
+        "difficulty": "Easy",
+        "question": "What is the recommended tire tread depth?",
+        "options": [
+            "More than 1.5 mm",
+            "More than 3 mm",
+            "More than 5 mm",
+            "More than 2 mm"
+        ],
+        "correct_answer": "More than 1.5 mm",
+        "importance_weight": 2
+    },
+    {
+        "question_id": "Q049",
+        "category": "Vehicle Maintenance and Care",
+        "difficulty": "Easy",
+        "question": "What should you do if your brake pedal feels soft or spongy?",
+        "options": [
+            "Drive faster to avoid stopping",
+            "Pull over and check the brake fluid levels",
+            "Ignore it",
+            "Press harder on the pedal"
+        ],
+        "correct_answer": "Pull over and check the brake fluid levels",
+        "importance_weight": 4
+    },
+    {
+        "question_id": "Q050",
+        "category": "Road Safety and Accident Prevention",
+        "difficulty": "Medium",
+        "question": "What should you do when driving in foggy conditions?",
+        "options": [
+            "Turn on high beams",
+            "Drive at high speed to clear the fog",
+            "Use low beams and slow down",
+            "Turn off the headlights"
+        ],
+        "correct_answer": "Use low beams and slow down",
+        "importance_weight": 1
+    },
+    {
+        "question_id": "Q051",
+        "category": "Road Safety and Accident Prevention",
+        "difficulty": "Hard",
+        "question": "What is the safest way to drive on a slippery road?",
+        "options": [
+            "Increase speed",
+            "Use gentle braking and steering",
+            "Use high gears",
+            "Turn off the engine"
+        ],
+        "correct_answer": "Use gentle braking and steering",
+        "importance_weight": 1
+    },
+    {
+        "question_id": "Q052",
+        "category": "Road Safety and Accident Prevention",
+        "difficulty": "Easy",
+        "question": "What should you do when you see a vehicle tailgating you?",
+        "options": [
+            "Speed up",
+            "Slow down and allow the vehicle to pass",
+            "Honk your horn",
+            "Ignore them and continue driving"
+        ],
+        "correct_answer": "Slow down and allow the vehicle to pass",
+        "importance_weight": 1
+    },
+    {
+        "question_id": "Q053",
+        "category": "Road Safety and Accident Prevention",
+        "difficulty": "Easy",
+        "question": "What is the best way to avoid rear-end collisions?",
+        "options": [
+            "Maintain a safe following distance",
+            "Drive in the middle lane",
+            "Accelerate quickly",
+            "Turn on the hazard lights frequently"
+        ],
+        "correct_answer": "Maintain a safe following distance",
+        "importance_weight": 4
+    },
+    {
+        "question_id": "Q054",
+        "category": "Road Safety and Accident Prevention",
+        "difficulty": "Hard",
+        "question": "What is the correct action when you encounter a road obstruction?",
+        "options": [
+            "Stop immediately",
+            "Look for alternative routes",
+            "Drive around it carefully",
+            "Sound the horn and continue"
+        ],
+        "correct_answer": "Look for alternative routes",
+        "importance_weight": 4
+    },
+    {
+        "question_id": "Q055",
+        "category": "Road Safety and Accident Prevention",
+        "difficulty": "Hard",
+        "question": "What should you do if you are driving and your tires suddenly blow out?",
+        "options": [
+            "Briskly steer to the shoulder and stop",
+            "Hold the wheel firmly and gradually slow down",
+            "Accelerate to keep control",
+            "Turn off the engine immediately"
+        ],
+        "correct_answer": "Hold the wheel firmly and gradually slow down",
+        "importance_weight": 3
+    },
+    {
+        "question_id": "Q056",
+        "category": "Road Safety and Accident Prevention",
+        "difficulty": "Easy",
+        "question": "What is the best way to handle a skid?",
+        "options": [
+            "Brake hard",
+            "Steer in the opposite direction of the skid",
+            "Steer into the skid and ease off the accelerator",
+            "Turn off the engine"
+        ],
+        "correct_answer": "Steer into the skid and ease off the accelerator",
+        "importance_weight": 5
+    },
+    {
+        "question_id": "Q057",
+        "category": "Road Safety and Accident Prevention",
+        "difficulty": "Hard",
+        "question": "What is the purpose of wearing a helmet while riding a motorcycle?",
+        "options": [
+            "To protect from the sun",
+            "To improve your hearing",
+            "To protect your head in case of an accident",
+            "To reduce fatigue"
+        ],
+        "correct_answer": "To protect your head in case of an accident",
+        "importance_weight": 5
+    },
+    {
+        "question_id": "Q058",
+        "category": "Road Safety and Accident Prevention",
+        "difficulty": "Easy",
+        "question": "When should you use hazard lights?",
+        "options": [
+            "When you are stopped in a safe place",
+            "When you are driving at night",
+            "When you are driving through a narrow street",
+            "In case of a sudden stop or emergency"
+        ],
+        "correct_answer": "In case of a sudden stop or emergency",
+        "importance_weight": 1
+    },
+    {
+        "question_id": "Q059",
+        "category": "Road Safety and Accident Prevention",
+        "difficulty": "Hard",
+        "question": "What is the primary reason for wearing a seatbelt?",
+        "options": [
+            "To avoid being fined",
+            "To feel more comfortable",
+            "To prevent injuries in case of an accident",
+            "To improve driving posture"
+        ],
+        "correct_answer": "To prevent injuries in case of an accident",
+        "importance_weight": 2
+    },
+    {
+        "question_id": "Q060",
+        "category": "Road Safety and Accident Prevention",
+        "difficulty": "Medium",
+        "question": "What should you do if you are driving in a heavy rainstorm?",
+        "options": [
+            "Speed up to reach your destination faster",
+            "Keep your headlights on and reduce speed",
+            "Turn off the windshield wipers",
+            "Ignore the rain and drive normally"
+        ],
+        "correct_answer": "Keep your headlights on and reduce speed",
+        "importance_weight": 2
+    },
+    {
+        "question_id": "Q061",
+        "category": "Road Safety and Accident Prevention",
+        "difficulty": "Medium",
+        "question": "What is the purpose of checking your blind spots?",
+        "options": [
+            "To reduce fuel consumption",
+            "To avoid accidents when changing lanes",
+            "To increase vehicle speed",
+            "To improve visibility in rain"
+        ],
+        "correct_answer": "To avoid accidents when changing lanes",
+        "importance_weight": 5
+    },
+    {
+        "question_id": "Q062",
+        "category": "Road Safety and Accident Prevention",
+        "difficulty": "Medium",
+        "question": "When should you use your car's horn?",
+        "options": [
+            "To alert others of your presence in normal traffic",
+            "To warn of an impending collision",
+            "To signal a green light",
+            "To express frustration with other drivers"
+        ],
+        "correct_answer": "To warn of an impending collision",
+        "importance_weight": 2
+    },
+    {
+        "question_id": "Q063",
+        "category": "Road Safety and Accident Prevention",
+        "difficulty": "Easy",
+        "question": "What should you do if another vehicle is approaching from behind at high speed?",
+        "options": [
+            "Accelerate to get away",
+            "Change lanes or pull over to allow them to pass",
+            "Brake suddenly",
+            "Keep the same speed and don't move"
+        ],
+        "correct_answer": "Change lanes or pull over to allow them to pass",
+        "importance_weight": 2
+    },
+    {
+        "question_id": "Q064",
+        "category": "Road Safety and Accident Prevention",
+        "difficulty": "Medium",
+        "question": "What is the correct action when driving in a construction zone?",
+        "options": [
+            "Increase speed to pass quickly",
+            "Drive at the posted speed limit or slower",
+            "Ignore construction vehicles",
+            "Switch lanes at any point"
+        ],
+        "correct_answer": "Drive at the posted speed limit or slower",
+        "importance_weight": 2
+    }
+]
